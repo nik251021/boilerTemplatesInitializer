@@ -1,0 +1,1 @@
+# Program for using templates for creating new projects (Im lazy to write boilercode)
